@@ -1,1 +1,3 @@
-# Internship-Project
+Sorry
+I am not able to build the project on the given topics but I submit here the web application I build already for Tracking the School Work.
+It does not contain the requirements specified for the different project since I don't have knowleagde of all that topics i.e firebase,redis,django,etc.....
